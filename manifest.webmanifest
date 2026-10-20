@@ -1,0 +1,19 @@
+{
+  "name": "달빛 편의점 — 고향의 24시간 편의점",
+  "short_name": "달빛편의점",
+  "description": "고향의 작은 가게를 대형 매장으로 키우는 2D 도트 힐링 경영 시뮬레이션",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#FBF2E2",
+  "theme_color": "#2B3A4A",
+  "categories": ["games", "simulation"],
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
